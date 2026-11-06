@@ -1,19 +1,19 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img src="assets/banner-light.svg" alt="Juliana Cañizares — Software Developer Junior" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
+  <img src="banner-light.svg" alt="Juliana Cañizares — Software Developer Junior" width="100%">
 </picture>
 
 <br><br>
 
 <a href="mailto:julianacanizares124@gmail.com">
-  <img src="assets/btn-contacto.svg" alt="Contáctame por correo" height="48">
+  <img src="btn-contacto.svg" alt="Contáctame por correo" height="48">
 </a>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 <div align="center">
 
@@ -27,7 +27,7 @@ Me gusta convertir ideas en proyectos que funcionan y se ven bien, aprendiendo c
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## Sobre mí
 
@@ -39,7 +39,7 @@ Actualmente me estoy formando en **Campuslands** como Desarrolladora de Software
 - **Busco:** mi primera oportunidad profesional para aportar y seguir creciendo.
 - **Ubicación:** Bucaramanga, Colombia.
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## Tecnologías y herramientas
 
@@ -80,7 +80,7 @@ Actualmente me estoy formando en **Campuslands** como Desarrolladora de Software
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## Proyectos destacados
 
@@ -116,7 +116,7 @@ Actualmente me estoy formando en **Campuslands** como Desarrolladora de Software
   </tr>
 </table>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## Estadísticas de GitHub
 
@@ -147,7 +147,7 @@ Actualmente me estoy formando en **Campuslands** como Desarrolladora de Software
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="">
+<img src="divider.svg" width="100%" alt="">
 
 ## Contacto
 
@@ -164,6 +164,6 @@ Actualmente me estoy formando en **Campuslands** como Desarrolladora de Software
 
 Gracias por pasar por mi perfil 💗 — siempre abierta a nuevos retos y proyectos.
 
-<img src="assets/footer.svg" width="100%" alt="">
+<img src="footer.svg" width="100%" alt="">
 
 </div>
