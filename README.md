@@ -118,32 +118,7 @@ Actualmente me estoy formando en **Campuslands** como Desarrolladora de Software
 
 <img src="divider.svg" width="100%" alt="">
 
-## Estadísticas de GitHub
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=juulicanizares&show_icons=true&locale=es&border_radius=12&border_color=D66B9C&title_color=F4B6D2&icon_color=E8A1C5&text_color=F3F3F5&bg_color=25232A">
-    <img src="https://github-readme-stats.vercel.app/api?username=juulicanizares&show_icons=true&locale=es&border_radius=12&border_color=F4B6D2&title_color=D66B9C&icon_color=E8A1C5&text_color=25232A&bg_color=FFFFFF" alt="Estadísticas generales de GitHub" height="165">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=juulicanizares&layout=compact&langs_count=6&locale=es&border_radius=12&border_color=D66B9C&title_color=F4B6D2&text_color=F3F3F5&bg_color=25232A">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juulicanizares&layout=compact&langs_count=6&locale=es&border_radius=12&border_color=F4B6D2&title_color=D66B9C&text_color=25232A&bg_color=FFFFFF" alt="Lenguajes más utilizados" height="165">
-  </picture>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=juulicanizares&locale=es&border_radius=12&border=D66B9C&background=25232A&ring=F4B6D2&fire=E8A1C5&currStreakLabel=F4B6D2&currStreakNum=F3F3F5&sideNums=F3F3F5&sideLabels=F4B6D2&dates=B9B4C2&stroke=D66B9C">
-    <img src="https://streak-stats.demolab.com?user=juulicanizares&locale=es&border_radius=12&border=F4B6D2&background=FFFFFF&ring=D66B9C&fire=E8A1C5&currStreakLabel=D66B9C&currStreakNum=25232A&sideNums=25232A&sideLabels=D66B9C&dates=6B6672&stroke=F4B6D2" alt="Racha de contribuciones" width="70%">
-  </picture>
-  <br><br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=juulicanizares&bg_color=25232A&color=F4B6D2&line=D66B9C&point=F3F3F5&area=true&area_color=D66B9C&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juulicanizares&bg_color=FFFFFF&color=D66B9C&line=E8A1C5&point=25232A&area=true&area_color=F4B6D2&hide_border=true" alt="Actividad y contribuciones" width="95%">
-  </picture>
-</div>
-
-</div>
-
-<img src="divider.svg" width="100%" alt="">
 
 ## Contacto
 
