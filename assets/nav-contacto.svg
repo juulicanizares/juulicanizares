@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="290" height="72" viewBox="0 0 290 72" role="img" aria-label="CONTACTO: Hablemos">
+<title>CONTACTO: Hablemos</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#262132"/><stop offset="1" stop-color="#1B1824"/></linearGradient>
+<radialGradient id="glow" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#8F7AD6" stop-opacity=".28"/><stop offset="1" stop-color="#8F7AD6" stop-opacity="0"/></radialGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F4B6D2"/><stop offset="1" stop-color="#B79CED"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="289" height="71" rx="12" fill="url(#bg)" stroke="#3A3350"/>
+<rect x=".5" y=".5" width="289" height="71" rx="12" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="289" height="71" rx="12" fill="url(#glow)"/>
+<text x="24" y="30" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2" fill="#E8A1C5" text-anchor="start" font-weight="700">CONTACTO</text>
+<text x="24" y="52" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#F3F3F5" font-weight="400" text-anchor="start">Hablemos</text>
+<path d="M248 40 L262 26 M252 26 H262 V36" fill="none" stroke="#E8A1C5" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

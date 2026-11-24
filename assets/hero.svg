@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" role="img" aria-label="Juliana Cañizares, Software Developer Junior">
+<title>Juliana Cañizares, Software Developer Junior</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#262132"/><stop offset="1" stop-color="#1B1824"/></linearGradient>
+<radialGradient id="glow" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#8F7AD6" stop-opacity=".28"/><stop offset="1" stop-color="#8F7AD6" stop-opacity="0"/></radialGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F4B6D2"/><stop offset="1" stop-color="#B79CED"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="899" height="439" rx="22" fill="url(#bg)" stroke="#3A3350"/>
+<rect x=".5" y=".5" width="899" height="439" rx="22" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="899" height="439" rx="22" fill="url(#glow)"/>
+<text x="56" y="62" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="16" letter-spacing="0" fill="#F4B6D2" text-anchor="start" font-weight="700">JC /</text>
+<text x="108" y="62" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2" fill="#A9A3BC" text-anchor="start" font-weight="400">JUULICANIZARES</text>
+<text x="844" y="62" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2" fill="#A9A3BC" text-anchor="end" font-weight="400">SOFTWARE × APRENDIZAJE</text>
+<line x1="56" y1="86" x2="844" y2="86" stroke="#3A3350"/>
+<text x="56" y="132" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2" fill="#B79CED" text-anchor="start" font-weight="400">DESARROLLADORA DE SOFTWARE / JUNIOR</text>
+<text x="54" y="190" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" fill="#F3F3F5" font-weight="700" text-anchor="start">Construyo</text>
+<text x="54" y="248" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" fill="#F3F3F5" font-weight="700" text-anchor="start">soluciones.</text>
+<text x="54" y="304" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="44" font-weight="700" fill="url(#acc)">Sigo creciendo.</text>
+<text x="56" y="346" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" fill="#F3F3F5" font-weight="700" text-anchor="start">Juliana Cañizares</text>
+<text x="56" y="372" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#A9A3BC" font-weight="400" text-anchor="start">Software Developer Junior · Campuslands</text>
+<line x1="56" y1="394" x2="844" y2="394" stroke="#3A3350"/>
+<circle cx="62" cy="416" r="4" fill="#F4B6D2"/>
+<text x="74" y="420" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2" fill="#A9A3BC" text-anchor="start" font-weight="400">BUCARAMANGA, COLOMBIA</text>
+<text x="844" y="420" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="2" fill="#A9A3BC" text-anchor="end" font-weight="400">APRENDER → CONSTRUIR → CRECER</text>
+<rect x="470" y="116" width="374" height="256" rx="14" fill="#14111B" stroke="#3A3350"/>
+<circle cx="492" cy="140" r="5" fill="#F4B6D2"/>
+<circle cx="510" cy="140" r="5" fill="#B79CED"/>
+<circle cx="528" cy="140" r="5" fill="#8F7AD6"/>
+<text x="826" y="144" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="10" letter-spacing="1" fill="#A9A3BC" text-anchor="end" font-weight="400">juliana / workspace</text>
+<line x1="470" y1="158" x2="844" y2="158" stroke="#3A3350"/>
+<text x="492" y="190" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#D66B9C">const </tspan><tspan fill="#F4B6D2">developer</tspan><tspan fill="#F3F3F5"> = {</tspan></text>
+<text x="516" y="218" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#B79CED">role: </tspan><tspan fill="#F4B6D2">&#x27;Software Developer Junior&#x27;</tspan><tspan fill="#F3F3F5">,</tspan></text>
+<text x="516" y="246" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#B79CED">focus: </tspan><tspan fill="#F4B6D2">&#x27;crear y aprender&#x27;</tspan><tspan fill="#F3F3F5">,</tspan></text>
+<text x="516" y="274" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#B79CED">mindset: </tspan><tspan fill="#F4B6D2">&#x27;seguir creciendo&#x27;</tspan><tspan fill="#F3F3F5">,</tspan></text>
+<text x="516" y="302" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#B79CED">location: </tspan><tspan fill="#F4B6D2">&#x27;Bucaramanga, CO&#x27;</tspan></text>
+<text x="492" y="330" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#F3F3F5">};</tspan></text>
+<text x="492" y="358" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" xml:space="preserve"><tspan fill="#8F7AD6">&gt; </tspan><tspan fill="#E8A1C5">ideas.build()</tspan></text>
+<rect x="612" y="345" width="8" height="16" fill="#F4B6D2"><animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>

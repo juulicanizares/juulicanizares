@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="240" viewBox="0 0 440 240" role="img" aria-label="Construir paso a paso.">
+<title>Construir paso a paso.</title>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#262132"/><stop offset="1" stop-color="#1B1824"/></linearGradient>
+<radialGradient id="glow" cx="1" cy="0" r="0.8"><stop offset="0" stop-color="#8F7AD6" stop-opacity=".28"/><stop offset="1" stop-color="#8F7AD6" stop-opacity="0"/></radialGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#F4B6D2"/><stop offset="1" stop-color="#B79CED"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect x=".5" y=".5" width="439" height="239" rx="18" fill="url(#bg)" stroke="#3A3350"/>
+<rect x=".5" y=".5" width="439" height="239" rx="18" fill="url(#grid)"/>
+<rect x=".5" y=".5" width="439" height="239" rx="18" fill="url(#glow)"/>
+<text x="32" y="38" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="1" fill="#F4B6D2" text-anchor="start" font-weight="700">01</text>
+<text x="58" y="38" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" letter-spacing="2" fill="#A9A3BC" text-anchor="start" font-weight="400">DESARROLLO</text>
+<line x1="32" y1="54" x2="408" y2="54" stroke="#3A3350"/>
+<g fill="none" stroke="#F4B6D2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="52,74 32,94 52,114"/><polyline points="82,74 102,94 82,114"/><line x1="73" y1="70" x2="61" y2="118"/></g>
+<text x="32" y="148" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="22" fill="#F3F3F5" font-weight="700" text-anchor="start">Construir paso a paso.</text>
+<text x="32" y="176" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#A9A3BC" font-weight="400" text-anchor="start">De la lógica a la implementación.</text>
+<text x="32" y="196" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" fill="#A9A3BC" font-weight="400" text-anchor="start">Web, bases de datos y automatización.</text>
+<rect x="32" y="214" width="28" height="3" rx="1.5" fill="#F4B6D2"/>
+</svg>
